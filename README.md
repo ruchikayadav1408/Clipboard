@@ -1,8 +1,13 @@
-# React + Vite
+# Simple clipboard🔥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Website Preview
+https://clipboard-input.netlify.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# website view
+<img align="center" alt="pic" width ="800" height="500" src="https://github.com/ruchikayadav1408/Clipboard/assets/86114973/2bc2cf52-38d7-466b-88c2-636cd16d88ae"/>
+
+
+## Tools Used 🛠️
+ <b>NETLIFY</b> - To host website 
+
