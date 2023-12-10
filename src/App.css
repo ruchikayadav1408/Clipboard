@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #d5bcc9;
+  border-radius: 5px;
+}
+
+.clipboardDropdown {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.clipboardDropdown button {
+  padding: 5px 10px;
+  border: 1px solid #10128b;
+  border-radius: 5px;
+  background-color: #4c1db9;
+  cursor: pointer;
+}
+
+.clipboardDropdown select {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: 1px solid #065f71;
+  border-radius: 5px;
+  background-color: #793bb7;
+}
+
+.clipboardDropdown select:focus {
+  outline: none;
+}
